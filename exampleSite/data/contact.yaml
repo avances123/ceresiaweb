@@ -1,9 +1,9 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: 'info@ceresia.vision'
+phone: '+34 695 664 690 '
+businessName: 'Ceresia'
 address: |
-  123 Some Street
-  City, State 12345
+  02200 casas ibañez
+  Albacete Spain
 hours:
   - day: Monday
     open: 8:30am
