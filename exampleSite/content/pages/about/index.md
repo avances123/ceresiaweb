@@ -1,9 +1,9 @@
 ---
-title: 'About'
+title: 'CERES UVA '
 date: 2018-12-06T09:29:16+10:00
-layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
+layout: 'CERES UVA '
+heroHeading: 'CERES UVA '
+heroSubHeading: "es la herramienta definitiva que te ayudará a aumentar la calidad y optimizar el proceso de elaboración del vino."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
