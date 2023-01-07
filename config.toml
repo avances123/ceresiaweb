@@ -35,8 +35,12 @@ theme = "hugo-hero-theme"
 [[menu.main]]
 	name = "Servicios"
 	url = "/servicios/"
-    weight = 1
+    weight = 2
 
+[[menu.main]]
+    name = "Cómo funciona"
+    url = "/history/"
+    weight = 1
 
 [[menu.main]]
     name = "Contacto"
