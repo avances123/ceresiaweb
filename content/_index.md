@@ -1,7 +1,7 @@
 ---
 title: 'Home'
-date: 2018-02-12T15:37:57+07:00
-heroHeading: 'Hero - Hugo Small Business Theme'
-heroSubHeading: 'Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.'
-heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
+date: 2023-01-02T15:37:57+07:00
+heroHeading: 'Ceres Uva - Los ojos en tu remolque'
+heroSubHeading: 'Con la inteligencia artificial, podrás optimizar el rendimiento de tu producción de vino de manera más eficiente y precisa que nunca antes.'
+heroBackground: 'images/hero.jpg'
 ---

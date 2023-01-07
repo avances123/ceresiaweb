@@ -1,6 +1,6 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Hugo Hero Theme"
+baseURL = "https://ceresia.vision"
+languageCode = "es"
+title = "Ceresia Vision"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -16,7 +16,7 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/logo.jpg"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "Hugo Hero"
@@ -33,28 +33,14 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Servicios"
+	url = "/servicios/"
     weight = 1
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Contacto"
+    url = "/contacto/"
     weight = 4
 
 [permalinks]
