@@ -1,12 +1,9 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/avances123",
-        "image": "social/github.svg"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/avances123",
-        "image": "social/twitter.svg"
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/company/ceresia-vision/",
+        "image": "social/linkedin.svg"
     }
+    
 ]
+

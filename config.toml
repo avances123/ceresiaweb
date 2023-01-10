@@ -32,20 +32,21 @@ theme = "hugo-hero-theme"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
 
-[[menu.main]]
-	name = "Servicios"
-	url = "/services/"
-    weight = 2
 
 [[menu.main]]
-    name = "Cómo funciona"
+    name = "ceres uva"
     url = "/about/"
     weight = 1
 
 [[menu.main]]
     name = "Contacto"
-    url = "/contacto/"
+    url = "/contact/"
     weight = 4
+
+[[menu.main]]
+    name = "DEMO"
+    url = "https://demo.ceresia.vision"
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
