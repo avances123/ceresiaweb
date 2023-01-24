@@ -1,9 +1,9 @@
 ---
-title: 'Modern Hospital'
+title: 'Como soy'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 2
-heroHeading: 'Modern Hospital Design'
+heroHeading: 'Como soy'
 heroSubHeading: 'Designing a new modern hospital wing'
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
 thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'

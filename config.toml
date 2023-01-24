@@ -34,8 +34,8 @@ theme = "hugo-hero-theme"
 
 
 [[menu.main]]
-    name = "ceres uva"
-    url = "/about/"
+    name = "Ceres Uva"
+    url = "/work/"
     weight = 1
 
 [[menu.main]]
@@ -44,7 +44,7 @@ theme = "hugo-hero-theme"
     weight = 4
 
 [[menu.main]]
-    name = "DEMO"
+    name = "Demo"
     url = "https://demo.ceresia.vision"
     weight = 3
 

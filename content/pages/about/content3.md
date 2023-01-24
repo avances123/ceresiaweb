@@ -1,11 +1,11 @@
 ---
-title: 'Giving Back'
+title: 'Cómo soy'
 weight: 3
-date: 2018-12-06T09:29:16+10:00
+date: 2022-12-06T09:29:16+10:00
 background: ''
 align: right
-button: 'Preguntanos'
-buttonLink: 'contact'
+button: 'Accede a la Demo'
+buttonLink: 'https://demo.ceresia.vision/'
 ---
 
 Para que una red neuronal de segmentación aprenda a detectar uvas y hojas en las fotografías, primero se le proporciona un conjunto de imágenes etiquetadas que muestran uvas y hojas. Estas imágenes se conocen como "datos de entrenamiento". Para cada imagen de entrenamiento, se le dice a la red neuronal qué partes de la imagen son uvas y qué partes son hojas. A partir de estas etiquetas, la red neuronal comienza a "aprender" qué características visuales son comunes en las imágenes de uvas y hojas.
