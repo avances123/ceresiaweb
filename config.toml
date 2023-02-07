@@ -35,7 +35,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Ceres Uva"
-    url = "/work/"
+    url = "/ceresuva/"
     weight = 1
 
 [[menu.main]]
