@@ -1,5 +1,10 @@
+.linkedin {
+  filter: invert(110%) sepia(100%) saturate(6481%) hue-rotate(246deg) brightness(102%) contrast(143%);
+}
+
+
 .sub-footer {
-  background: darken($secondary, 10%);
+  background: darken($secondary, 5%);
   padding-top: 20px;
   padding-bottom: 20px;
   @include media-breakpoint-up(md) {

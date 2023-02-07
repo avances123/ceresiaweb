@@ -5,3 +5,6 @@ heroHeading: 'Ceres Uva'
 heroSubHeading: 'Los ojos en tu uva'
 heroBackground: 'https://www.vinetur.com/imagenes/2018/agosto/28/uvas.jpg'
 ---
+
+
+Texto sobre la aplicacion general

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg 
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 0 250 120"
+        fill="none"
+      >
+        <style type="text/css">
+          path, line { 
+            stroke: black;
+            stroke-width: .75px;
+          }
+          text { 
+            fill: gray;
+            font-family: sans-serif;
+            font-size: 11px;
+          }
+          .cm-axis-tick line {
+            stroke: lightgray;
+          }
+          path.cm-axis-split-fill {
+            stroke: none;
+            fill: white;
+          }
+          .cm-elevation-marker,
+          .cm-time-marker {
+            stroke: darkred;
+          }
+        </style>
+      <g transform="translate(0.5, 0.5)"><g class="cm-axis-ticks-x"><g class="cm-axis-tick" transform="translate(23, 0)" style="opacity: 1;"><line y1="114" y2="4"></line><text y="4" dx="3" dy="7" text-anchor="start" style="opacity: 0;">2021</text></g><g class="cm-axis-tick" transform="translate(113, 0)" style="opacity: 1;"><line y1="114" y2="4"></line><text y="4" dx="3" dy="7" text-anchor="start">2022</text></g><g class="cm-axis-tick" transform="translate(202, 0)" style="opacity: 1;"><line y1="114" y2="4"></line><text y="4" dx="3" dy="7" text-anchor="start">2023</text></g></g><g class="cm-axis-ticks-y"><g class="cm-axis-tick" transform="translate(0, 103)" style="opacity: 1;"><line x1="8" x2="242"></line><text x="242" dx="-2" dy="-2" text-anchor="end">-80</text></g><g class="cm-axis-tick" transform="translate(0, 85)" style="opacity: 1;"><line x1="8" x2="242"></line><text x="242" dx="-2" dy="-2" text-anchor="end">-60</text></g><g class="cm-axis-tick" transform="translate(0, 68)" style="opacity: 1;"><line x1="8" x2="242"></line><text x="242" dx="-2" dy="-2" text-anchor="end">-40</text></g><g class="cm-axis-tick" transform="translate(0, 50)" style="opacity: 1;"><line x1="8" x2="242"></line><text x="242" dx="-2" dy="-2" text-anchor="end">-20</text></g><g class="cm-axis-tick" transform="translate(0, 32)" style="opacity: 0;"><line x1="8" x2="242"></line><text x="242" dx="-2" dy="-2" text-anchor="end">0</text></g></g><image class="cm-image" preserveAspectRatio="none" x="8" width="199" y="32" height="82" xlink:href="data:image/png;base64,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" style="opacity: 0.8;"></image><line class="cm-axis-x cm-axis-line" x1="8" x2="242" y1="32" y2="32"></line><text class="cm-axis-label cm-axis-label-x" x="242" y="32" dx="-2" dy="-4" text-anchor="end">t</text><line class="cm-axis-y cm-axis-line" x1="8" x2="8" y1="4" y2="114"></line><text class="cm-axis-label cm-axis-label-y" x="8" y="4" dx="3" dy="7" text-anchor="start">z — thetao</text><g class="cm-axis-split-y cm-axis-split" transform="translate(8, 32)" style="opacity: 0;"><path class="cm-axis-split-fill" d="M-2,0L2,-4L2,0L-2,4"></path><path class="cm-axis-split" d="M-2,0L2,-4M-2,4L2,0"></path></g><line class="cm-time-marker" y1="4" y2="114" x1="112" x2="112" style="opacity: 1;"></line><line class="cm-elevation-marker" x1="8" x2="242" y1="32" y2="32" style="opacity: 1;"></line></g></svg>
