@@ -48,6 +48,19 @@ theme = "hugo-hero-theme"
     url = "https://demo.ceresia.vision"
     weight = 3
 
+
+[[menu.main_mobile]]
+    name = "Ceres Uva"
+    url = "/ceresuva/"
+    weight = 1
+
+[[menu.main_mobile]]
+    name = "Contacto"
+    url = "/contact/"
+    weight = 4
+
+
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
