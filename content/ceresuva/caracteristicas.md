@@ -5,7 +5,7 @@ draft: false
 weight: 1
 heroHeading: 'Características'
 heroSubHeading: 'Mejorando la Calidad de la Uva con Ceres UVA: Una Solución Única para la Elaboración de Vino'
-heroBackground: 'work/work1.jpg'
+heroBackground: 'uvas.jpg'
 thumbnail: 'images/segmentada.jpeg'
 images: ['caracteristicas/instalacion.jpg','caracteristicas/camara.jpg','caracteristicas/torre.jpg','caracteristicas/camara_exterior.jpeg','caracteristicas/pantalla.jpg','caracteristicas/instalacion_pc.jpg']
 ---
