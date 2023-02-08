@@ -7,8 +7,7 @@ heroHeading: 'Características'
 heroSubHeading: 'Mejorando la Calidad de la Uva con Ceres UVA: Una Solución Única para la Elaboración de Vino'
 heroBackground: 'work/work1.jpg'
 thumbnail: 'images/segmentada.jpeg'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['caracteristicas/instalacion.jpg','caracteristicas/camara.jpg','caracteristicas/torre.jpg','caracteristicas/camara_exterior.jpeg','caracteristicas/pantalla.jpg','caracteristicas/instalacion_pc.jpg']
 ---
 
 La industria vinícola requiere de un enfoque sofisticado y tecnológico para asegurar la máxima calidad y integridad de la uva desde el momento en que es recolectada hasta que llega a la bodega. La recogida y el transporte de la uva son cruciales para la elaboración de vino de alta calidad, ya que una manipulación inadecuada puede dañar la uva y afectar la calidad del vino. Por eso, es importante tomar medidas para proteger la uva durante el transporte y procesarla de manera rápida y eficiente en la bodega.
