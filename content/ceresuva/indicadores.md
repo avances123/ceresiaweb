@@ -7,8 +7,7 @@ heroHeading: 'Nuevos Indicadores'
 heroSubHeading: 'Conoce los indicadores que tendras para hacer un "pago por calidad"'
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
 thumbnail: 'uvas.jpg'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['nuevos_indicadores/indicadores.png','nuevos_indicadores/dashboard_estadisticas_agregadas.png','nuevos_indicadores/deteccion.png','nuevos_indicadores/dashboard_estadisticas_individualizadas.png','nuevos_indicadores/deteccion_poca_luminosidad_y_variedad_vertical.jpg','nuevos_indicadores/m2.png','nuevos_indicadores/ejemplo_recortar_fondo.png','nuevos_indicadores/m4.jpg','nuevos_indicadores/uva_blanca_negra.jpeg'] 
 ---
 
 El mundo del vino es uno de los más antiguos y prestigiosos, y la calidad de la uva es esencial para producir un buen vino. La recogida y el transporte de la uva a la bodega son procesos clave en la elaboración de vino, y es importante tomar medidas para proteger la uva durante su transporte y procesamiento. Sin embargo, muchos agricultores no siempre utilizan técnicas adecuadas para recoger la uva y evitar dañarla.
