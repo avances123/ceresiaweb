@@ -5,8 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Nuevos Indicadores'
 heroSubHeading: 'Conoce los indicadores que tendras para hacer un "pago por calidad"'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'uvas.jpg'
+heroBackground: 'uvas.jpg'
+thumbnail: 'images/stats1.png'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
