@@ -6,7 +6,7 @@ weight: 2
 heroHeading: 'Nuevos Indicadores'
 heroSubHeading: 'Conoce los indicadores que tendras para hacer un "pago por calidad"'
 heroBackground: 'images/stats1.png'
-thumbnail: 'uvas.jpg'
+thumbnail: 'images/stats1.png'
 images: ['nuevos_indicadores/indicadores.png','nuevos_indicadores/dashboard_estadisticas_agregadas.png','nuevos_indicadores/deteccion.png','nuevos_indicadores/dashboard_estadisticas_individualizadas.png','nuevos_indicadores/deteccion_poca_luminosidad_y_variedad_vertical.jpg','nuevos_indicadores/m2.png','nuevos_indicadores/ejemplo_recortar_fondo.png','nuevos_indicadores/m4.jpg','nuevos_indicadores/uva_blanca_negra.jpeg'] 
 ---
 
