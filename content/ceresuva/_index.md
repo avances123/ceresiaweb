@@ -15,6 +15,11 @@ Deje que Ceres Uva se convierta en su aliado para asegurarse de que la uva que r
 
 
 {{< unsafe >}}
-<a class="button" href="https://demo.ceresia.vision/livefeed" style="margin-top:40px">Visita la demo</a>
+<style>
+@media screen and (max-width: 460px) {
+        .button {display:none}
+}
+</style>
+<a class="button" href="https://demo.ceresia.vision/" style="margin-top:40px">Visita la demo</a>
 {{< /unsafe >}}
 
