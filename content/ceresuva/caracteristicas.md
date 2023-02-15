@@ -22,6 +22,6 @@ Además de su capacidad para mejorar la calidad de la uva, Ceres UVA también de
 
 * __Curva de aprendizaje mínima__: Ceres UVA está diseñado para ser fácil de usar, incluso por el personal encargado de obtener las muestras.
 
-* __Ubicuidad del sistema__: Ceres UVA permite acceder a todo lo que está sucediendo en la bodega desde cualquier punto con acceso a internet, lo que facilita la colaboración entre distintos departamentos y la toma de decisiones basadas en datos precisos.
+* __Alta Disponibilidad del sistema__: Ceres UVA permite acceder a todo lo que está sucediendo en la bodega desde cualquier punto con acceso a internet, lo que facilita la colaboración entre distintos departamentos y la toma de decisiones basadas en datos precisos.
 
 En resumen, Ceres UVA es una solución innovadora y eficaz que mejora la calidad de la uva y facilita la producción de vinos de alta calidad
