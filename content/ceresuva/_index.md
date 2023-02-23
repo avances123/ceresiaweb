@@ -1,5 +1,5 @@
 ---
-title: 'Ceres Uva - Los ojos en tu uva'
+title: 'Ceres Uva'
 date: 2023-01-10T11:52:18+07:00
 heroHeading: 'Ceres Uva'
 heroSubHeading: 'Clasifica tus remolques con eficacia'
