@@ -22,15 +22,15 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Ceresia es una compañia dedicada a la inteligencia artificial para el analisis de la uva"
+    meta_og_title = "Ceresia"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_url = "https://ceresia.vision"
+    meta_og_image = "https://ceresia.vision/images/segmentada.jpeg"
+    meta_og_description = "Ceresia es una compañia dedicada a la inteligencia artificial para el analisis de la uva"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@ceresia"
+    meta_twitter_creator = "@ceresia"
 
 
 [[menu.main]]
